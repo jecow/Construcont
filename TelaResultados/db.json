@@ -1,0 +1,20 @@
+{
+    "materiais": [
+        {
+            "nome": "Cimento (saco 50kg)",
+            "valor": 35.00
+        },
+        {
+            "nome": "Areia (m³)",
+            "valor": 120.00
+        },
+        {
+            "nome": "Bloco de concreto (unidade)",
+            "valor": 2.50
+        },
+        {
+            "nome": "Tinta branca (18L)",
+            "valor": 150.00
+        }
+    ]
+}
