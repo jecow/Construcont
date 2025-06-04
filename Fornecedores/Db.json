@@ -1,0 +1,42 @@
+{
+  "fornecedores": [
+    {
+      "id": 1,
+      "nome": "Carlos Silva",
+      "email": "carlos.silva@email.com",
+      "nascimento": "1985-06-15",
+      "profissao": "Eletricista",
+      "endereco": "Rua das Palmeiras",
+      "numero": "123",
+      "bairro": "Centro",
+      "cep": "12345-678",
+      "cidade": "São Paulo",
+      "foto": "uploads/carlos.jpg",
+      "portfolio": [
+        "uploads/carlos1.jpg",
+        "uploads/carlos2.jpg",
+        "uploads/carlos3.jpg",
+        "uploads/carlos4.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@email.com",
+      "nascimento": "1990-02-25",
+      "profissao": "Pintora",
+      "endereco": "Avenida Brasil",
+      "numero": "456",
+      "bairro": "Jardins",
+      "cep": "87654-321",
+      "cidade": "Rio de Janeiro",
+      "foto": "uploads/maria.jpg",
+      "portfolio": [
+        "uploads/maria1.jpg",
+        "uploads/maria2.jpg",
+        "uploads/maria3.jpg",
+        "uploads/maria4.jpg"
+      ]
+    }
+  ]
+}
